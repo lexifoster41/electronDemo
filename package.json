@@ -1,0 +1,15 @@
+{
+  "name": "electrondemo",
+  "version": "1.0.0",
+  "description": "Electron Demo",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Lexi Foster",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^28.2.0"
+  }
+}
